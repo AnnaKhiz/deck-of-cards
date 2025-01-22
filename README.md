@@ -1,7 +1,5 @@
 # deck-of-cards
 
-# spin_wheel
-
  - Vanilla JavaScript
  - HTML/CSS
 
